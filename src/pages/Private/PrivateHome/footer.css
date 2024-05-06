@@ -1,0 +1,30 @@
+.footer {
+    position: relative;
+    text-align: center;
+    background-color: white; /* Couleur de fond blanche */
+    color: #343a40; /* Couleur du texte */
+    padding-top: 50px; /* Espace en haut */
+    padding-bottom: 0px; /* Espace en bas */
+    z-index: -1; /* Mettre en arrière-plan */
+  }
+  
+  .footer h5 {
+    color: #343a40; /* Couleur du titre */
+  }
+  
+  .footer ul li a {
+    color: #343a40; /* Couleur des liens */
+  }
+  
+  .footer ul li a:hover {
+    color: #666666; /* Couleur des liens au survol */
+  }
+  
+  .footer p {
+    margin-bottom: 0; /* Supprime la marge en bas des paragraphes */
+  }
+  
+  .footer p:last-child {
+    margin-bottom: 10px; /* Ajoute un peu d'espace en bas du dernier paragraphe */
+  }
+  
